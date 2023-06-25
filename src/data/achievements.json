@@ -1,0 +1,45 @@
+{
+    "achievements": {
+        "title": "Achievements",
+        "subtitle": "Honor and Awards Achieved",
+        "icon": "assets/Icons/award.svg",
+        "awards": [
+            {
+                "id": 1,
+                "title":"Nominated",
+                "images": "assets/Images/Awards/1.jpg",
+                "Description": "Goodreads Choice Awards for Slammed"
+            },
+            {
+                "id": 2,
+                "title":"Nominated",
+                "images": "assets/Images/Awards/2.jpg",
+                "Description": "Goodreads Choice Awards for Losing Hope"
+            },
+            {
+                "id": 3,
+                "title":"Nominated",
+                "images": "assets/Images/Awards/3.jpg",
+                "Description": "Goodreads Choice Awards for This Girl"
+            },
+            {
+                "id": 4,
+                "title": "Winner",
+                "images":"assets/Images/Awards/4.jpg",
+                "Description": "Goodreads Choice Awards for Confess"
+            },
+            {
+                "id": 5,
+                "title": "Winner",
+                "images":"assets/Images/Awards/5.jpg",
+                "Description": "Goodreads Choice Awards for It Ends With Us"
+            },
+            {
+                "id": 6,
+                "title": "Winner",
+                "images":"assets/Images/Awards/3.jpg",
+                "Description": "UtopYa Con Awards for Maybe Someday"
+            }
+        ]
+    }
+}

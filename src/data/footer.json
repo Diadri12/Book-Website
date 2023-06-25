@@ -1,0 +1,40 @@
+{
+    "footer": {
+        "name": "Wonted",
+        "icon": "assets/Icons/heart.svg",
+        "menu": [
+            {
+                "link": "home",
+                "title": "Home"
+            },
+            {
+                "link": "benefits",
+                "title": "Benefits"
+            },
+            {
+                "link": "chapters",
+                "title": "Chapters"
+            },
+            {
+                "link": "pricing",
+                "title": "Pricing"
+            },
+            {
+                "link": "author",
+                "title": "Author"
+            },
+            {
+                "link": "achievements",
+                "title": "Achievements"
+            },
+            {
+                "link": "reviews",
+                "title": "Reviews"
+            },
+            {
+                "link": "contact",
+                "title": "Contact"
+            }
+        ]
+    }
+}

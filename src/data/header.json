@@ -1,0 +1,46 @@
+{
+    "header": {
+        "menu": [
+            {
+                "link": "hero",
+                "title": "Home",
+                "isDropDown": false
+            },
+            {
+                "link": "benefits",
+                "title": "Benefits",
+                "isDropDown": false
+            },
+            {
+                "link": "chapters",
+                "title": "Chapters",
+                "isDropDown": false
+            },
+            {
+                "link": "pricing",
+                "title": "Pricing",
+                "isDropDown": false
+            },
+            {
+                "link": "author",
+                "title": "Author",
+                "isDropDown": false
+            }, 
+            {
+                "link": "achievements",
+                "title": "Achievements",
+                "isDropDown": false
+            },
+            {
+                "link": "reviews",
+                "title": "Reviews",
+                "isDropDown": false
+            },
+            {
+                "link": "contact",
+                "title": "Contact",
+                "isDropDown": false
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "ctav3":{
+        "title1": "Do you have a question?",
+        "title2": "Feel free to ask",
+        "number": "+61 (0) 111 246 6879",
+        "btnText":"Send me a message"
+    },
+
+    "ctav4":{
+        "backgroundImage": "assets/Images/ctav4.jpg",
+        "title": "Watch the video",
+        "subtitle": "to see how much our readers love it",
+        "text": "Still have doubts? Check the free chapter to get an idea..",
+        "btnText":"Free Chapters",
+        "videoURL":"https://www.youtube.com/watch?v=PLqnXq8Ohh4"
+    },
+
+    "ctav5":{
+        "backgroundImage": "assets/Images/ctav5.jpg",
+        "title": "The book has 10000+ reviews",
+        "text1": "Reader's reviews",
+        "text2": "is self explanatory - 5/5",
+        "icon": "assets/Icons/star.svg"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "aboutV2":{
+        "title": "Learn about the author",
+    "subtitle": "ABOUT THE AUTHOR",
+    "image":"assets/Images/achive.png",
+    "videoURL": "https://youtu.be/Ujm2v0NoDLU",
+    "description": "According to wikipedia, Colleen Hoover is an American author who primarily writes novels in the romance and young adult fiction genres. She is best known for her 2016 romance novel, It Ends with Us. Many of her works were self-published, before being picked up by a publishing house.",
+    "userInfo": [
+        {
+            "title": "Name:",
+            "subtitle": "Colleen Hoover"
+        },
+        {
+            "title": "Born:",
+            "subtitle": "11.12.1979"
+        },
+        {
+            "title": "Country:",
+            "subtitle": "United States of America"
+        },
+        {
+            "title": "Email ID:",
+            "subtitle": "info@wonted.com"
+        },
+        {
+            "title": "Languages:",
+            "subtitle": "English"
+        },
+        {
+            "title": "Address:",
+            "subtitle": "06 DOYERS ST. 8 ARLINGTON DR. 599 NW BAY BLVD"
+        }
+    ]
+    }
+}

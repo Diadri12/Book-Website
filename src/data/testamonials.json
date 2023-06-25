@@ -1,0 +1,48 @@
+{
+    "testamonial": {
+        "title": "People's Opinions",
+        "subtitle": "TESTAMONIALS",
+        "testamonialItem": [
+            {
+                "id": 1,
+                "name": "Atria Books",
+                "title": "Daniel James Brown",
+                "icon": "assets/Icons/quote-right-icon.svg",
+                "images": "assets/Images/user 1.png",
+                "description": "“Breathtaking” is what The Seattle Times has to say. Simple, concise, and makes you want to crack into the book to see what they mean. If one word is enough to sum up an entire novel, that speaks."
+            },
+            {
+                "id": 2,
+                "name": "Atria Books",
+                "title": "Toni Cade Bambara",
+                "icon": "assets/Icons/quote-right-icon.svg",
+                "images":"assets/Images/user 2.png",
+                "description": "It is a most remarkable collection. Joy aches and pain chuckles in these pages, and the entire book leaves you with the impression of silk—which is so nice because it was made by a living thing that had something on its mind, its survival no doubt."
+            },
+            {
+                "id": 3,
+                "name":"Atria Books",
+                "title": "Jeremy Cowhart",
+                "icon": "assets/Icons/quote-right-icon.svg",
+                "images":"assets/Images/user 1.png",
+                "description":"The world is a better place because ofJeremy and his work. Once you read this book, you’ll understand why."
+            },
+            {
+                "id": 4,
+                "name":"Atria Books",
+                "title": "E.B White",
+                "icon": "assets/Icons/quote-right-icon.svg",
+                "images": "assets/Images/user 2.png",
+                "description": "What the book is about is friendship on earth, affection and protection, adventure and miracle, life and death, trust and treachery, pleasure and pain, and the passing of time. As a piece of work it is just about perfect, and just about magical in the way it is done."
+            },
+            {
+                "id": 5,
+                "name":"Atria Books",
+                "title": "Delia Owens",
+                "icon": "assets/Icons/quote-right-icon.svg",
+                "images": "assets/Images/user 2.png",
+                "description": "Painfully beautiful… At once a murder mystery, a coming-of-age narrative, and a celebration of nature."
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "achieve": {
+        "subtitle": "Why Wonted?",
+        "title": "What you'll achieve by this book",
+        "image": "assets/Images/achive2.jpg",
+        "achieveItem": [
+            {
+                "id": 1,
+                "icon": "assets/Icons/ebook.svg",
+                "title": "Experince",
+                "Description": "It feels great to lose yourself in a book, and doing so can even physically change your brain. As we let go of the emotional and mental chatter found in the real world, we enjoy deep reading that allows us to feel what the characters in a story feel."
+            },
+            {
+                "id":1,
+                "icon": "assets/Icons/dice-multiple.svg",
+                "title": "Motivation",
+                "Description": "Reading is good for you because it improves your focus, memory, empathy, and communication skills. It can reduce stress, improve your mental health, and help you live longer. Reading also allows you to learn new things to help you succeed in your work and relationships."
+            },
+            {
+                "id":1,
+                "icon":"assets/Icons/goal.svg",
+                "title": "Goals",
+                "Description":"Engaged readers believe they are capable and choose to read for a variety of purposes (to learn, seek specific information, and for enjoyment). They persevere through reading challenges and apply appropriate strategies for comprehension."
+            },
+            {
+                "id":1,
+                "icon":"assets/Icons/brand-target.svg",
+                "title": "Vision",
+                "Description":"Reading improves language and vocabulary, inspires imagination and gives everyone the opportunity to develop and foster new interests."
+            }
+        ]
+    }
+}

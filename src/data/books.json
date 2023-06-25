@@ -1,0 +1,44 @@
+{
+    "books": {
+        "title": "Latest Released",
+        "subtitle": "BOOKS",
+        "image1": "assets/Images/book3.jpg",
+        "image2": "assets/Images/book5.jpg",
+        "image3": "assets/Images/book6.jpg",
+        "image4": "assets/Images/book7.jpg"
+    },
+    "booksV2": {
+        "title": "Books",
+        "subtitle": "Books to read this summer",
+        "booksItem": [
+            {
+                "title": "The Summer I turned Pretty",
+                "image": "assets/Images/cover1.jpg"
+            },
+            {
+                "title":"What Happend to Goodbye",
+                "image": "assets/Images/cover2.jpg"
+            },
+            {
+                "title": "Five with Five",
+                "image":"assets/Images/cover3.jpg"
+            },
+            {
+                "title": "Lost and Found",
+                "image":"assets/Images/book.jpg"
+            },
+            {
+                "title": "The Soulmate",
+                "image":"assets/Images/book2.jpg"
+            },
+            {
+                "title": "Queen Charlotte",
+                "image": "assets/Images/book4.jpg"
+            },
+            {
+                "title": "Hello Stranger",
+                "image":"assets/Images/book8.jpg"
+            }
+        ]
+    }
+}
