@@ -3,8 +3,8 @@ This project is a project which was created using react js and css which allows 
 
 <table>
    <tr>
-    <td> <img src="Book-author website page 1.png "  alt="1" width = 750px></td>
+    <td> <img src="Book-author website page 1.png "  alt="1" width = 900px></td>
    </tr> 
    <tr>
-     <td><img src="Book-author website page 2.png" alt="2" width = 750px></td>
+     <td><img src="Book-author website page 2.png" alt="2" width = 900px></td>
 </table>
